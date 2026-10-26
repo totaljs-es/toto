@@ -37,6 +37,12 @@ window.TOTO_POSES = {
       "width": 1295,
       "height": 1214,
       "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-signature.webp",
+        "width": 800,
+        "height": 750,
+        "format": "image/webp"
+      },
       "alpha": true,
       "style": "soft-3d-illustration",
       "usage": {
@@ -59,6 +65,12 @@ window.TOTO_POSES = {
       "width": 1254,
       "height": 1254,
       "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-welcome.webp",
+        "width": 800,
+        "height": 800,
+        "format": "image/webp"
+      },
       "alpha": true,
       "style": "soft-3d-illustration",
       "usage": {
@@ -81,6 +93,12 @@ window.TOTO_POSES = {
       "width": 1254,
       "height": 1254,
       "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-thinking.webp",
+        "width": 800,
+        "height": 800,
+        "format": "image/webp"
+      },
       "alpha": true,
       "style": "soft-3d-illustration",
       "usage": {
@@ -103,6 +121,12 @@ window.TOTO_POSES = {
       "width": 1254,
       "height": 1254,
       "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-coding.webp",
+        "width": 800,
+        "height": 800,
+        "format": "image/webp"
+      },
       "alpha": true,
       "style": "soft-3d-illustration",
       "usage": {
@@ -125,6 +149,12 @@ window.TOTO_POSES = {
       "width": 1254,
       "height": 1254,
       "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-celebrate.webp",
+        "width": 800,
+        "height": 800,
+        "format": "image/webp"
+      },
       "alpha": true,
       "style": "soft-3d-illustration",
       "usage": {

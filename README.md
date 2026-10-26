@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/poses/toto-signature.png" width="280" alt="Toto, el pequeño zorro naranja de Spanish Total.js, sonriendo y guiñando un ojo.">
+<img src="assets/poses/webp/toto-signature.webp" width="280" alt="Toto, el pequeño zorro naranja de Spanish Total.js, sonriendo y guiñando un ojo.">
 
 # Hola, soy Toto. 🦊
 
@@ -61,11 +61,11 @@ Las poses principales mantienen el acabado suave en 3D del Toto original. Cada i
 
 | Pose | Vista | Cuándo usarla |
 | --- | --- | --- |
-| **Firma** · `signature` | <img src="assets/poses/toto-signature.png" width="130" alt="Toto guiñando un ojo."> | Presentaciones, identidad y despedidas. |
-| **Bienvenida** · `welcome` | <img src="assets/poses/toto-welcome.png" width="130" alt="Toto saludando con una pata."> | Primer acceso, introducciones y bienvenida. |
-| **Pensando** · `thinking` | <img src="assets/poses/toto-thinking.png" width="130" alt="Toto con gesto curioso y pensativo."> | Consejos, ayuda y preguntas. |
-| **Programando** · `coding` | <img src="assets/poses/toto-coding.png" width="130" alt="Toto trabajando con su portátil."> | Tutoriales y tareas en curso. |
-| **Celebrando** · `celebrate` | <img src="assets/poses/toto-celebrate.png" width="130" alt="Toto celebrando con las patas levantadas."> | Una tarea completada o una nueva versión. |
+| **Firma** · `signature` | <img src="assets/poses/webp/toto-signature.webp" width="130" alt="Toto guiñando un ojo."> | Presentaciones, identidad y despedidas. |
+| **Bienvenida** · `welcome` | <img src="assets/poses/webp/toto-welcome.webp" width="130" alt="Toto saludando con una pata."> | Primer acceso, introducciones y bienvenida. |
+| **Pensando** · `thinking` | <img src="assets/poses/webp/toto-thinking.webp" width="130" alt="Toto con gesto curioso y pensativo."> | Consejos, ayuda y preguntas. |
+| **Programando** · `coding` | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto trabajando con su portátil."> | Tutoriales y tareas en curso. |
+| **Celebrando** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrando con las patas levantadas."> | Una tarea completada o una nueva versión. |
 
 La hoja ilustrada original se conserva como [referencia de expresiones](assets/reference/toto-character-sheet.png). Su estilo 2D es una referencia de desarrollo; la colección principal usa el acabado del Toto original.
 
@@ -79,7 +79,7 @@ Puedes usarlo directamente desde aquí, sin descargar nada: por ejemplo, en tu f
 
 ```html
 <a href="https://totaljs-es.github.io/toto/">
-  <img src="https://totaljs-es.github.io/toto/assets/poses/toto-welcome.png"
+  <img src="https://totaljs-es.github.io/toto/assets/poses/webp/toto-welcome.webp"
        width="160" height="160"
        alt="Toto, mascota de Spanish Total.js">
 </a>

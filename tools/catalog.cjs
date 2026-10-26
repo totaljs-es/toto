@@ -9,9 +9,9 @@ const definitions=[
  ['celebrate','Celebrando','Celebrate','Una tarea completada o una nueva versión.','A completed task or a new release.','Toto celebra con las patas levantadas y una sonrisa.','Toto celebrates with raised paws and a smile.']
 ];
 const poses=definitions.map(([id,es,en,useEs,useEn,altEs,altEn])=>{
- const file=`assets/poses/toto-${id}.png`,data=Fs.readFileSync(Path.join(root,file));
+ const file=`assets/poses/toto-${id}.png`,data=Fs.readFileSync(Path.join(root,file)),webpFile=`assets/poses/webp/toto-${id}.webp`,webp=Fs.readFileSync(Path.join(root,webpFile));
  if(data.subarray(0,8).toString('hex')!=='89504e470d0a1a0a')throw Error(file+' is not PNG');
- return {id,name:{es,en},file,width:data.readUInt32BE(16),height:data.readUInt32BE(20),format:'image/png',alpha:true,style:'soft-3d-illustration',usage:{es:useEs,en:useEn},alt:{es:altEs,en:altEn},origin:id==='signature'?'original-reference':'spanish-totaljs-design'};
+ return {id,name:{es,en},file,width:data.readUInt32BE(16),height:data.readUInt32BE(20),format:'image/png',web:{file:webpFile,width:1+webp.readUIntLE(24,3),height:1+webp.readUIntLE(27,3),format:'image/webp'},alpha:true,style:'soft-3d-illustration',usage:{es:useEs,en:useEn},alt:{es:altEs,en:altEn},origin:id==='signature'?'original-reference':'spanish-totaljs-design'};
 });
 const trademark=JSON.parse(Fs.readFileSync(Path.join(root,'assets/brand/trademark.json'),'utf8'));
 const manifest={schemaVersion:1,version:'1.0.0',character:'Toto',brand:'Spanish Total.js',status:'official-spanish-totaljs-mascot',license:'LicenseRef-Spanish-Totaljs-Toto-Proprietary',licenseFile:'LICENSE.md',pathBase:'repository-root',trademark,poses};

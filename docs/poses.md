@@ -6,15 +6,15 @@ Esta colección pertenece a Spanish Total.js. Su integración en aplicaciones pr
 
 ## Catálogo
 
-El [manifiesto JSON](../assets/poses/manifest.json) contiene identificador, archivo, dimensiones, textos alternativos e intención de cada pose. Las rutas del manifiesto son relativas a la raíz del repositorio. Los archivos originales son PNG con canal alfa; se sirven como imágenes estáticas.
+El [manifiesto JSON](../assets/poses/manifest.json) contiene identificador, archivo, dimensiones, textos alternativos e intención de cada pose. Las rutas del manifiesto son relativas a la raíz del repositorio. Cada pose existe en **WebP** (800 px, ligero, para web y firmas) y en **PNG** original (1254 px) con canal alfa. Usa el WebP salvo que necesites la máxima resolución; algunos clientes de correo antiguos, como Outlook de escritorio, no muestran WebP: en ese caso usa el PNG.
 
 | ID estable | Recurso | Uso recomendado |
 | --- | --- | --- |
-| `signature` | `assets/poses/toto-signature.png` | Identidad, presentaciones y firma. |
-| `welcome` | `assets/poses/toto-welcome.png` | Bienvenida, primeros pasos y ayuda inicial. |
-| `thinking` | `assets/poses/toto-thinking.png` | Consejos y preguntas sin resolver. |
-| `coding` | `assets/poses/toto-coding.png` | Tutoriales y operaciones en curso. |
-| `celebrate` | `assets/poses/toto-celebrate.png` | Confirmación de éxito y nuevas versiones. |
+| `signature` | `assets/poses/webp/toto-signature.webp` · `assets/poses/toto-signature.png` | Identidad, presentaciones y firma. |
+| `welcome` | `assets/poses/webp/toto-welcome.webp` · `assets/poses/toto-welcome.png` | Bienvenida, primeros pasos y ayuda inicial. |
+| `thinking` | `assets/poses/webp/toto-thinking.webp` · `assets/poses/toto-thinking.png` | Consejos y preguntas sin resolver. |
+| `coding` | `assets/poses/webp/toto-coding.webp` · `assets/poses/toto-coding.png` | Tutoriales y operaciones en curso. |
+| `celebrate` | `assets/poses/webp/toto-celebrate.webp` · `assets/poses/toto-celebrate.png` | Confirmación de éxito y nuevas versiones. |
 
 La [galería de la web](https://totaljs-es.github.io/toto/#poses) permite cambiar el fondo y comprobar cómo se ve cada pose.
 
@@ -24,7 +24,7 @@ Puedes enlazar la imagen directamente desde la web de Toto, sin descargarla. Es 
 
 ```html
 <a href="https://totaljs-es.github.io/toto/">
-  <img class="toto" src="https://totaljs-es.github.io/toto/assets/poses/toto-welcome.png"
+  <img class="toto" src="https://totaljs-es.github.io/toto/assets/poses/webp/toto-welcome.webp"
        width="160" height="160"
        alt="Toto, mascota de Spanish Total.js">
 </a>
@@ -45,7 +45,7 @@ Puedes enlazar la imagen directamente desde la web de Toto, sin descargarla. Es 
 En una app de Spanish Total.js, enlaza la pose desde la vista:
 
 ```html
-<img src="https://totaljs-es.github.io/toto/assets/poses/toto-thinking.png" width="128" height="128"
+<img src="https://totaljs-es.github.io/toto/assets/poses/webp/toto-thinking.webp" width="128" height="128"
      alt="Toto está pensando.">
 <p>Comprueba los datos antes de continuar.</p>
 ```

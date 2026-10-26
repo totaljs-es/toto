@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/poses/toto-signature.png" width="260" alt="Toto, the smiling orange fox of Spanish Total.js.">
+<img src="assets/poses/webp/toto-signature.webp" width="260" alt="Toto, the smiling orange fox of Spanish Total.js.">
 
 # Meet Toto. 🦊
 ### A little fox with a big JavaScript heart.
@@ -47,13 +47,13 @@ His role in our apps is to add warmth. Text, status and controls still communica
 
 ## The first collection
 
-| Pose | File | Purpose |
+| Pose | Files | Purpose |
 | --- | --- | --- |
-| Signature | [PNG](assets/poses/toto-signature.png) | Identity, introductions and sign-offs. |
-| Welcome | [PNG](assets/poses/toto-welcome.png) | Onboarding and first visits. |
-| Thinking | [PNG](assets/poses/toto-thinking.png) | Help, questions and useful tips. |
-| Coding | [PNG](assets/poses/toto-coding.png) | Tutorials and work in progress. |
-| Celebrate | [PNG](assets/poses/toto-celebrate.png) | Completed tasks and releases. |
+| Signature | [WebP](assets/poses/webp/toto-signature.webp) · [PNG](assets/poses/toto-signature.png) | Identity, introductions and sign-offs. |
+| Welcome | [WebP](assets/poses/webp/toto-welcome.webp) · [PNG](assets/poses/toto-welcome.png) | Onboarding and first visits. |
+| Thinking | [WebP](assets/poses/webp/toto-thinking.webp) · [PNG](assets/poses/toto-thinking.png) | Help, questions and useful tips. |
+| Coding | [WebP](assets/poses/webp/toto-coding.webp) · [PNG](assets/poses/toto-coding.png) | Tutorials and work in progress. |
+| Celebrate | [WebP](assets/poses/webp/toto-celebrate.webp) · [PNG](assets/poses/toto-celebrate.png) | Completed tasks and releases. |
 
 The main collection follows the original portrait's softly rendered 3D illustration style. Each asset is a standalone transparent PNG. The earlier 2D character sheet is retained as a development reference, not as the main rendering style.
 
@@ -63,7 +63,7 @@ Use him straight from here, with nothing to download: in an email signature, for
 
 ```html
 <a href="https://totaljs-es.github.io/toto/en/">
-  <img src="https://totaljs-es.github.io/toto/assets/poses/toto-welcome.png"
+  <img src="https://totaljs-es.github.io/toto/assets/poses/webp/toto-welcome.webp"
        width="160" height="160"
        alt="Toto, mascot of Spanish Total.js">
 </a>
