@@ -5,7 +5,7 @@
 ### A little fox with a big JavaScript heart.
 **The official mascot of Spanish Total.js.**
 
-**European red fox (*Vulpes vulpes*) · Registered trademark at the OEPM · M4411785**
+**European red fox (*Vulpes vulpes*) · Toto™ · Mark of Spanish Total.js · OEPM M4411785**
 
 [Español](README.md) · [Visual presentation](https://totaljs-es.github.io/toto/en/) · [Identity guide](docs/identidad.md) · [Poses](docs/poses.md) · [License](LICENSE.md)
 </div>
@@ -70,9 +70,9 @@ Use him straight from here, with nothing to download: in an email signature, for
 <br>Toto, mascot of <a href="https://totaljs.es/">Spanish Total.js</a>
 ```
 
-## Registered trademark
+## Trademark
 
-**Toto** is a registered trademark of Spanish Total.js at the OEPM, number **M4411785**. [Trademark details](docs/marca.md).
+**Toto™** is a mark of Spanish Total.js · OEPM **M4411785**. [Trademark details](docs/marca.md).
 
 ## Our mascot, limited permission
 

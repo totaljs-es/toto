@@ -58,7 +58,7 @@ En el producto, una pose de celebración aparece después de que la operación s
 
 ## Marca
 
-La presentación y la atribución usan **Spanish Total.js**. El nombre del personaje es **Toto**, marca registrada en la OEPM (**M4411785**). Consulta [los datos de la marca](marca.md).
+La presentación y la atribución usan **Spanish Total.js**. El nombre del personaje es **Toto**, marca de Spanish Total.js (**Toto™**, OEPM **M4411785**). Consulta [los datos de la marca](marca.md).
 
 ## Usos que requieren autorización
 

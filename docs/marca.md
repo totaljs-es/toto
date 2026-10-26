@@ -1,6 +1,6 @@
-# Toto, marca registrada
+# Toto™, marca de Spanish Total.js
 
-**Toto** es una marca registrada de **Spanish Total.js** en la Oficina Española de Patentes y Marcas (OEPM).
+**Toto™** es una marca de **Spanish Total.js**.
 
 | Dato | Información |
 | --- | --- |
@@ -17,4 +17,4 @@ Toto solo puede usarse para mencionar a Total.js, a Spanish Total.js o a sus apl
 
 ## English
 
-**Toto** is a registered trademark of **Spanish Total.js** at the Spanish Patent and Trademark Office (OEPM), number **M4411785**, classes 9 and 42. It may only be used to mention Total.js, Spanish Total.js or its applications, under the [terms of use](../LICENSE.md).
+**Toto™** is a mark of **Spanish Total.js**, OEPM **M4411785**, classes 9 and 42. It may only be used to mention Total.js, Spanish Total.js or its applications, under the [terms of use](../LICENSE.md).

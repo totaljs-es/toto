@@ -32,7 +32,7 @@ Los mensajes, estados y acciones de cada aplicación siguen siendo claros por s�
 
 ## Su casa, hoy
 
-Toto es la **mascota oficial de Spanish Total.js** y una marca registrada en la OEPM (**M4411785**). Su nombre, sus imágenes y su personalidad forman parte de nuestra identidad y de nuestras aplicaciones.
+Toto es la **mascota oficial de Spanish Total.js** y una marca de Spanish Total.js (**Toto™**, OEPM **M4411785**). Su nombre, sus imágenes y su personalidad forman parte de nuestra identidad y de nuestras aplicaciones.
 
 [Datos de la marca](marca.md).
 

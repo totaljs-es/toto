@@ -2,7 +2,7 @@
 
 Esta colección pertenece a Spanish Total.js. Su integración en aplicaciones propias y el permiso editorial limitado de terceros se rigen por la [licencia privativa](../LICENSE.md).
 
-Toto es una marca registrada de Spanish Total.js en la **OEPM** (**M4411785**). [Datos de la marca](marca.md).
+**Toto™** es una marca de Spanish Total.js · OEPM **M4411785**. [Datos de la marca](marca.md).
 
 ## Catálogo
 

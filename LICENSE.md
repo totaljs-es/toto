@@ -7,7 +7,7 @@ Estas condiciones se aplican a la identidad de Toto y a los materiales de este r
 
 ## 1. Identidad
 
-Toto es la mascota oficial de **Spanish Total.js**. Su publicación no autoriza a terceros a adoptarlo como mascota, presentarlo como propio o incorporarlo a otra identidad de marca. Toto es una marca registrada de Spanish Total.js en la **OEPM**, con el número **M4411785**.
+Toto es la mascota oficial de **Spanish Total.js**. Su publicación no autoriza a terceros a adoptarlo como mascota, presentarlo como propio o incorporarlo a otra identidad de marca. **Toto™** es una marca de Spanish Total.js · OEPM **M4411785**.
 
 ## 2. Uso propio de Spanish Total.js
 
@@ -57,7 +57,7 @@ Los materiales se proporcionan tal cual. No se garantiza su idoneidad para un us
 
 ## English summary — informative
 
-Toto is the official mascot of **Spanish Total.js** and a registered trademark at the OEPM (**M4411785**). This repository is proprietary; it is not an open-source or freely reusable asset collection.
+Toto is the official mascot of **Spanish Total.js** and a mark of Spanish Total.js (**Toto™**, OEPM **M4411785**). This repository is proprietary; it is not an open-source or freely reusable asset collection.
 
 Third parties may display an unmodified official image only when truthfully mentioning Total.js, Spanish Total.js or one of its applications. Credit **“Toto, mascot of Spanish Total.js”** and link to `https://totaljs.es/` or the application discussed. Proportional resizing and visually faithful format conversion are permitted for that limited purpose.
 

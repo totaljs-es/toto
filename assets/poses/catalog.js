@@ -13,7 +13,7 @@ window.TOTO_POSES = {
     "jurisdiction": "ES",
     "applicationNumber": "M4411785",
     "markType": "figurative",
-    "status": "registered",
+    "status": "pending",
     "holder": "Spanish Total.js",
     "classes": [
       9,
@@ -21,8 +21,8 @@ window.TOTO_POSES = {
     ],
     "referenceAsset": "assets/poses/toto-signature.png",
     "notice": {
-      "es": "Marca registrada en la OEPM · M4411785",
-      "en": "Registered trademark at the OEPM · M4411785"
+      "es": "Toto™ · Marca de Spanish Total.js · OEPM M4411785",
+      "en": "Toto™ · Mark of Spanish Total.js · OEPM M4411785"
     },
     "detailsFile": "docs/marca.md"
   },

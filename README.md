@@ -8,7 +8,7 @@
 
 **La mascota oficial de Spanish Total.js.**
 
-**Zorro rojo europeo (*Vulpes vulpes*) · Marca registrada en la OEPM · M4411785**
+**Zorro rojo europeo (*Vulpes vulpes*) · Toto™ · Marca de Spanish Total.js · OEPM M4411785**
 
 [Presentación web](https://totaljs-es.github.io/toto/) · [Conoce su historia](docs/historia.md) · [Guía de identidad](docs/identidad.md) · [Poses y uso en apps](docs/poses.md) · [Condiciones de uso](LICENSE.md) · [English](README.en.md)
 
@@ -86,9 +86,9 @@ Puedes usarlo directamente desde aquí, sin descargar nada: por ejemplo, en tu f
 <br>Toto, mascota de <a href="https://totaljs.es/">Spanish Total.js</a>
 ```
 
-## Marca registrada
+## Marca
 
-**Toto** es una marca registrada de Spanish Total.js en la OEPM, con el número **M4411785**.
+**Toto™** es una marca de Spanish Total.js · OEPM **M4411785**.
 
 [Datos de la marca →](docs/marca.md)
 
