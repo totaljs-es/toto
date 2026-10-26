@@ -1,0 +1,11 @@
+{
+  "name": "spanish-totaljs-toto",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Toto, mascota oficial de Spanish Total.js. Presentación y recursos de identidad bajo licencia privativa.",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "scripts": {
+    "catalog": "node tools/catalog.cjs",
+    "check": "node tools/check.cjs"
+  }
+}

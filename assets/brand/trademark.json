@@ -1,0 +1,18 @@
+{
+  "office": "OEPM",
+  "jurisdiction": "ES",
+  "applicationNumber": "M4411785",
+  "markType": "figurative",
+  "status": "registered",
+  "holder": "Spanish Total.js",
+  "classes": [
+    9,
+    42
+  ],
+  "referenceAsset": "assets/poses/toto-signature.png",
+  "notice": {
+    "es": "Marca registrada en la OEPM · M4411785",
+    "en": "Registered trademark at the OEPM · M4411785"
+  },
+  "detailsFile": "docs/marca.md"
+}
