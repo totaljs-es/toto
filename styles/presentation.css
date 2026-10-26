@@ -13,4 +13,4 @@
 .species{display:grid;grid-template-columns:.8fr 1.2fr;gap:70px;align-items:center}.species-art{background:#f1e9df;border-radius:var(--radius);aspect-ratio:1;display:grid;place-items:center;padding:30px}.species-art img{width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 18px 22px #5b32131a)}.species-copy>p:not(.eyebrow){font-size:15px;line-height:1.95;color:#626a67;max-width:600px}.species-copy h2 em{white-space:nowrap}
 .field-guide{margin:30px 0 0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 34px;max-width:640px}.field-guide>div{border-top:1px solid var(--line);padding-block:14px}.field-guide dt{font-size:9px;letter-spacing:1.5px;text-transform:uppercase;font-weight:750;color:var(--orange);margin-bottom:5px}.field-guide dd{margin:0;font-size:13px;line-height:1.6}
 @media(max-width:760px){.species{grid-template-columns:1fr;gap:30px}.field-guide{grid-template-columns:1fr}.species-art{max-width:360px}}
-.brand-mark{background:none;padding:0;border-radius:0;object-fit:contain}
+.brand-mark{display:block;background:var(--ink);padding:7px;border-radius:13px;object-fit:contain}
