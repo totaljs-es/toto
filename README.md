@@ -75,10 +75,15 @@ Visita **[totaljs-es.github.io/toto/](https://totaljs-es.github.io/toto/)**: su 
 
 Para nuestras aplicaciones, consulta [el catálogo de poses](assets/poses/manifest.json) y los [ejemplos de integración](docs/poses.md).
 
+Puedes usarlo directamente desde aquí, sin descargar nada: por ejemplo, en tu firma de correo o en una página que hable de Spanish Total.js. Incluye siempre la atribución y el enlace.
+
 ```html
-<img src="/assets/toto/toto-welcome.png"
-     width="160" height="160"
-     alt="Toto te da la bienvenida a Spanish Total.js.">
+<a href="https://totaljs-es.github.io/toto/">
+  <img src="https://totaljs-es.github.io/toto/assets/poses/toto-welcome.png"
+       width="160" height="160"
+       alt="Toto, mascota de Spanish Total.js">
+</a>
+<br>Toto, mascota de <a href="https://totaljs.es/">Spanish Total.js</a>
 ```
 
 ## Marca registrada

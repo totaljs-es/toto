@@ -59,6 +59,17 @@ The main collection follows the original portrait's softly rendered 3D illustrat
 
 Visit **[totaljs-es.github.io/toto/en/](https://totaljs-es.github.io/toto/en/)** for the visual presentation: his story, the European red fox field guide, a gallery on light and dark backgrounds and the usage criteria. Also available [in Spanish](https://totaljs-es.github.io/toto/).
 
+Use him straight from here, with nothing to download: in an email signature, for example, or on a page that talks about Spanish Total.js. Always include the attribution and the link.
+
+```html
+<a href="https://totaljs-es.github.io/toto/en/">
+  <img src="https://totaljs-es.github.io/toto/assets/poses/toto-welcome.png"
+       width="160" height="160"
+       alt="Toto, mascot of Spanish Total.js">
+</a>
+<br>Toto, mascot of <a href="https://totaljs.es/">Spanish Total.js</a>
+```
+
 ## Registered trademark
 
 **Toto** is a registered trademark of Spanish Total.js at the OEPM, number **M4411785**. [Trademark details](docs/marca.md).

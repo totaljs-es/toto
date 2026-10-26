@@ -20,12 +20,15 @@ La [galería de la web](https://totaljs-es.github.io/toto/#poses) permite cambia
 
 ## HTML
 
-Copia el recurso autorizado a la carpeta estática de tu aplicación. Este ejemplo presupone que has copiado el PNG a `/assets/toto/`:
+Puedes enlazar la imagen directamente desde la web de Toto, sin descargarla. Es válido para una firma de correo o una página que mencione a Spanish Total.js; incluye la atribución y el enlace:
 
 ```html
-<img class="toto" src="/assets/toto/toto-welcome.png"
-     width="160" height="160"
-     alt="Toto te da la bienvenida a Spanish Total.js.">
+<a href="https://totaljs-es.github.io/toto/">
+  <img class="toto" src="https://totaljs-es.github.io/toto/assets/poses/toto-welcome.png"
+       width="160" height="160"
+       alt="Toto, mascota de Spanish Total.js">
+</a>
+<br>Toto, mascota de <a href="https://totaljs.es/">Spanish Total.js</a>
 ```
 
 ```css
@@ -39,10 +42,10 @@ Copia el recurso autorizado a la carpeta estática de tu aplicación. Este ejemp
 
 ## Total.js
 
-En una app de Spanish Total.js, coloca el archivo en `public/img/toto/` y úsalo desde la vista:
+En una app de Spanish Total.js, enlaza la pose desde la vista:
 
 ```html
-<img src="/img/toto/toto-thinking.png" width="128" height="128"
+<img src="https://totaljs-es.github.io/toto/assets/poses/toto-thinking.png" width="128" height="128"
      alt="Toto está pensando.">
 <p>Comprueba los datos antes de continuar.</p>
 ```
