@@ -14,7 +14,7 @@ This kit gives an arriving assistant the repository's actual structure, visual i
 | [Pose manifest](../assets/poses/manifest.json) | Stable pose IDs, paths, dimensions, bilingual alt text and intended use |
 | [Trademark metadata](../assets/brand/trademark.json) | Locally recorded brand data; not a live registry verification |
 
-The original artwork and [identity guide](identidad.md) define Toto. Machine-readable descriptions do not replace visual review. The [license](../LICENSE.md) remains proprietary with a limited permission to display official assets; the AI kit does not broaden that permission.
+The original artwork and [identity guide](identity.md) define Toto. Machine-readable descriptions do not replace visual review. The [license](../LICENSE.md) remains proprietary with a limited permission to display official assets; the AI kit does not broaden that permission.
 
 ## Skills
 

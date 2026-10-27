@@ -20,7 +20,7 @@ El nombre llegó con naturalidad. **Toto** era corto, fácil de recordar y tení
 
 Toto siente curiosidad por los proyectos que empiezan. Le gustan las preguntas, los pequeños experimentos y el momento en que una idea encuentra su forma. Tiene paciencia para acompañar una explicación y una sonrisa preparada para celebrar que algo ha salido bien.
 
-Su personalidad nace de lo que queremos cuidar en Spanish Total.js: compartir lo aprendido, mantener el gusto por crear y hacer que quien llega se sienta acompañado.
+Su personalidad nace de lo que queremos cuidar en la comunidad Total.js: compartir lo aprendido, mantener el gusto por crear y hacer que quien llega se sienta acompañado.
 
 Tiene un punto travieso. A veces se distrae con otra idea antes de terminar el café. Eso también forma parte de Toto: el entusiasmo de quienes siempre tienen algo nuevo que probar.
 
@@ -32,7 +32,7 @@ Los mensajes, estados y acciones de cada aplicación siguen siendo claros por s�
 
 ## Su casa, hoy
 
-Toto es la **mascota oficial de Spanish Total.js** y una marca de Spanish Total.js (**Toto™**, OEPM **M4411785**). Su nombre, sus imágenes y su personalidad forman parte de nuestra identidad y de nuestras aplicaciones.
+Toto es la **mascota oficial de Spanish Total.js** y una marca de Spanish Total.js (**Toto™**, OEPM **M4411785**). La comunidad Total.js puede llevarlo a apps creadas con Total.js, como describe la [licencia](../../LICENSE.es.md).
 
 [Datos de la marca](marca.md).
 
@@ -51,3 +51,5 @@ Desde entonces se queda cerca. Acompaña las primeras pruebas, se asoma a las id
 A Toto le gusta ese momento en que alguien dice: «Ya está. Ahora funciona».
 
 **Un pequeño zorro con un gran corazón JavaScript.**
+
+[English version](../story.md)

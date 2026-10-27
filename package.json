@@ -2,7 +2,7 @@
   "name": "spanish-totaljs-toto",
   "version": "1.0.0",
   "private": true,
-  "description": "Toto, mascota oficial de Spanish Total.js. Presentación y recursos de identidad bajo licencia privativa.",
+  "description": "Toto, official mascot of Spanish Total.js: presentation, identity and poses under a limited-use license.",
   "license": "SEE LICENSE IN LICENSE.md",
   "scripts": {
     "catalog": "node tools/catalog.cjs",

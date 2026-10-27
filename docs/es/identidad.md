@@ -1,12 +1,10 @@
 # La identidad de Toto
 
-Toto es la mascota oficial de **Spanish Total.js**. Este documento guía la creación y revisión de recursos internos. Las adaptaciones de terceros requieren autorización escrita según la [licencia](../LICENSE.md).
+Toto es la mascota oficial de **Spanish Total.js**. Esta guía ayuda a crear y revisar piezas en las que aparece. Los demás usos se rigen por la [licencia](../../LICENSE.es.md).
 
 ## Imagen de referencia
 
-El [retrato original](../assets/poses/toto-signature.png) define el aspecto principal: ilustración de acabado suave en 3D, formas redondeadas, pelaje naranja, mirada expresiva y una silueta reconocible.
-
-La [hoja original de expresiones](../assets/reference/toto-character-sheet.png) documenta ideas y poses en un estilo ilustrado 2D. Sirve como referencia de desarrollo de expresiones, no como sustituto del acabado principal.
+El [retrato original](../../assets/poses/toto-signature.png) define el aspecto principal: ilustración de acabado suave en 3D, formas redondeadas, pelaje naranja, mirada expresiva y una silueta reconocible.
 
 ## Un zorro rojo europeo
 
@@ -22,7 +20,7 @@ Toto es un **zorro rojo europeo** (*Vulpes vulpes*), no un fénec ni un zorro de
 - Una cola grande y esponjosa con la punta clara.
 - Expresión amable, curiosa y un poco traviesa.
 
-Las imágenes generadas son ilustraciones con referencia, no renders de un modelo 3D compartido. Cada pose se revisa para mantener estos rasgos; la identidad tiene prioridad sobre variaciones accidentales entre imágenes.
+Cada pose se revisa para mantener estos rasgos; la identidad tiene prioridad sobre variaciones accidentales entre imágenes.
 
 ## Paleta de acompañamiento
 
@@ -62,4 +60,6 @@ La presentación y la atribución usan **Spanish Total.js**. El nombre del perso
 
 ## Usos que requieren autorización
 
-Cambiar la anatomía, los colores del personaje, su ropa o accesorios; crear poses nuevas; animarlo; convertirlo en otra mascota; integrarlo en una identidad de terceros o fabricar mercancía. Las exportaciones técnicas sin cambios visuales —por ejemplo, reducir el tamaño— se rigen por el permiso de uso de la licencia.
+Cambiar la anatomía, los colores del personaje, su ropa o accesorios; crear poses nuevas; animarlo; convertirlo en otra mascota; integrarlo en una identidad de terceros o fabricar mercancía. Las exportaciones técnicas sin cambios visuales —por ejemplo, reducir el tamaño— se rigen por el permiso de la [licencia](../../LICENSE.es.md).
+
+[English version](../identity.md)

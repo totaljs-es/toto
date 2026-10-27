@@ -19,13 +19,15 @@ function transparency(file){
 }
 for(const pose of manifest.poses){Assert(!ids.has(pose.id));ids.add(pose.id);Assert(!pose.file.includes('..'));const {w,h}=transparency(pose.file);Assert.equal(pose.width,w);Assert.equal(pose.height,h);Assert(pose.alt.es&&pose.alt.en);const web=read(pose.web.file);Assert.equal(web.toString('ascii',0,4),'RIFF');Assert.equal(web.toString('ascii',8,16),'WEBPVP8X');Assert(web[20]&0x10,'WebP needs alpha');Assert.equal(1+web.readUIntLE(24,3),pose.web.width);Assert(web.length<200000,'WebP too heavy');console.log('PNG OK',pose.id,w+'×'+h,'real transparency');}
 const sandbox={window:{}};VM.runInNewContext(read('assets/poses/catalog.js').toString(),sandbox);Assert.equal(JSON.stringify(sandbox.window.TOTO_POSES),JSON.stringify(manifest));
-for(const page of ['index.html','en/index.html','404.html']){
+for(const page of ['index.html','es/index.html','404.html']){
  const html=read(page).toString().replace(/<pre[\s\S]*?<\/pre>/g,'');
  for(const m of html.matchAll(/(?:src|href)="([^"#][^"]*)"/g)){const target=m[1].split('#')[0];if(/^[a-z]+:/i.test(target)||!target)continue;Assert(Fs.existsSync(Path.resolve(root,Path.dirname(page),target)),'Broken HTML asset in '+page+': '+target);}
 }
 Assert(Fs.existsSync(Path.join(root,'.nojekyll')),'Missing .nojekyll for GitHub Pages');
-for(const name of ['README.md','README.es.md','docs/historia.md','docs/identidad.md','docs/poses.md']){
+for(const name of ['README.md','README.es.md','LICENSE.md','LICENSE.es.md',...Fs.readdirSync(Path.join(root,'docs')).filter(n=>n.endsWith('.md')).map(n=>'docs/'+n),...Fs.readdirSync(Path.join(root,'docs/es')).map(n=>'docs/es/'+n)]){
  const source=read(name).toString();for(const m of source.matchAll(/\]\(([^)#]+)(?:#[^)]*)?\)/g)){if(/^[a-z]+:/i.test(m[1]))continue;Assert(Fs.existsSync(Path.resolve(root,Path.dirname(name),m[1])),'Broken documentation link in '+name+': '+m[1]);}
 }
-Assert(read('LICENSE.md').toString().includes('licencia de uso limitada'));
+Assert(read('LICENSE.md').toString().includes('limited-use license'));
+for(const f of ['LICENSE.md','LICENSE.es.md','README.md','README.es.md','index.html','es/index.html'])Assert(/totaljs\.(com|es)/.test(read(f).toString()),'Built-with-Total.js link missing in '+f);
+for(const f of ['LICENSE.md','LICENSE.es.md','README.md','README.es.md','index.html','es/index.html','docs/poses.md','docs/es/poses.md'])Assert(!/asistencia de IA|AI-assisted|prompt/i.test(read(f).toString()),'Creation details must not appear in '+f);
 console.log('OK: '+manifest.poses.length+' poses + WebP, real alpha, matching catalogs, local document links and presentation assets.');

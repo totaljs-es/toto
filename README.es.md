@@ -10,13 +10,13 @@
 
 **Zorro rojo europeo (*Vulpes vulpes*) · Toto™ · Marca de Spanish Total.js · OEPM M4411785**
 
-[Presentación web](https://totaljs-es.github.io/toto/) · [Conoce su historia](docs/historia.md) · [Guía de identidad](docs/identidad.md) · [Poses y uso en apps](docs/poses.md) · [Iconos web](docs/favicon.md) · [Condiciones de uso](LICENSE.md) · [English](README.md)
+[Presentación web](https://totaljs-es.github.io/toto/es/) · [Su historia](docs/es/historia.md) · [Guía de identidad](docs/es/identidad.md) · [Poses y uso en apps](docs/es/poses.md) · [Iconos web](docs/es/favicon.md) · [Licencia](LICENSE.es.md) · [English](README.md)
 
 </div>
 
 Toto es un **zorro rojo europeo** (*Vulpes vulpes*) y pone cara a una forma de hacer las cosas: sentir curiosidad, aprender juntos y disfrutar construyendo. Nos acompaña entre líneas de código, primeras versiones, preguntas difíciles y pequeños logros que merecen celebrarse.
 
-Su casa es **Spanish Total.js**. Esta es su presentación, su guía de identidad y la colección de recursos que utilizamos en nuestras aplicaciones y comunicaciones.
+Su casa es **Spanish Total.js**. Esta es su presentación, su guía de identidad y la colección de poses para las apps y los contenidos de la comunidad Total.js.
 
 ## Una historia que empieza con una pregunta
 
@@ -28,7 +28,7 @@ Ese zorro nos recordaba dos lugares importantes para nuestra historia: España, 
 
 Hoy Toto es la mascota oficial de **Spanish Total.js**.
 
-[Leer la historia completa →](docs/historia.md)
+[Leer la historia completa →](docs/es/historia.md)
 
 ## Un zorro rojo europeo
 
@@ -57,7 +57,7 @@ Toto es un **zorro rojo europeo**, *Vulpes vulpes*: el mismo zorro que vive en l
 
 ## Su primera colección
 
-Las poses principales mantienen el acabado suave en 3D del Toto original. Cada imagen es un PNG independiente con transparencia; los identificadores permiten reutilizarla de forma consistente en nuestras apps.
+Cada pose es una imagen independiente con fondo transparente, en WebP (800 px, ligera, para la web) y PNG original. Los identificadores permiten reutilizarla de forma consistente en tus apps.
 
 | Pose | Vista | Cuándo usarla |
 | --- | --- | --- |
@@ -68,40 +68,43 @@ Las poses principales mantienen el acabado suave en 3D del Toto original. Cada i
 | **Celebrando** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrando con las patas levantadas."> | Una tarea completada o una nueva versión. |
 | **Algo ha fallado** · `error` | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto se rasca la cabeza con una expresión de desconcierto amable."> | Páginas de error y rutas no encontradas, con una explicación y una salida clara. |
 
-La hoja ilustrada original se conserva como [referencia de expresiones](assets/reference/toto-character-sheet.png). Su estilo 2D es una referencia de desarrollo; la colección principal usa el acabado del Toto original.
-
 ## Una presentación para conocerlo
 
-Visita **[totaljs-es.github.io/toto/](https://totaljs-es.github.io/toto/)**: su presentación visual, la historia, la ficha del zorro rojo europeo, una galería con fondos claro y oscuro y los criterios de uso. También disponible [en inglés](https://totaljs-es.github.io/toto/en/).
+Visita **[totaljs-es.github.io/toto/es/](https://totaljs-es.github.io/toto/es/)**: su presentación visual, la historia, la ficha del zorro rojo europeo, una galería con fondos claro y oscuro y las condiciones de uso. También disponible [en inglés](https://totaljs-es.github.io/toto/).
 
-Para nuestras aplicaciones, consulta [el catálogo de poses](assets/poses/manifest.json) y los [ejemplos de integración](docs/poses.md).
+## Usa a Toto en tus apps Total.js
 
-Puedes usarlo directamente desde aquí, sin descargar nada: por ejemplo, en tu firma de correo o en una página que hable de Spanish Total.js. Incluye siempre la atribución y el enlace.
+Toto pertenece a la comunidad Total.js. Puedes llevarlo a las apps, webs y servicios que crees con Total.js, y los creadores pueden usarlo para ilustrar contenidos sobre Total.js: tutoriales, artículos, vídeos, cursos y charlas.
+
+**Una condición: indica con claridad que está creado con Total.js, con un enlace a [totaljs.es](https://www.totaljs.es) o a [totaljs.com](https://www.totaljs.com).** Coloca el aviso donde los usuarios puedan verlo: junto a Toto, en el pie de página, en la página «acerca de» o en los créditos.
+
+Úsalo directamente desde aquí, sin descargar nada:
 
 ```html
-<a href="https://totaljs-es.github.io/toto/">
+<a href="https://www.totaljs.es/">
   <img src="https://totaljs-es.github.io/toto/assets/poses/webp/toto-welcome.webp"
        width="160" height="160"
        alt="Toto, mascota de Spanish Total.js">
 </a>
-<br>Toto, mascota de <a href="https://totaljs.es/">Spanish Total.js</a>
+<p>Creado con <a href="https://www.totaljs.es/">Total.js</a></p>
 ```
+
+Más ejemplos, con todas las poses y sus usos recomendados, en la [guía de poses](docs/es/poses.md).
 
 ## Marca
 
-**Toto™** es una marca de Spanish Total.js · OEPM **M4411785**.
+**Toto™** es una marca de Spanish Total.js · OEPM **M4411785**. [Datos de la marca →](docs/es/marca.md)
 
-[Datos de la marca →](docs/marca.md)
+## Condiciones de uso
 
-## Es nuestra mascota
+**Licencia de uso limitado.** Toto no es una colección de código abierto ni de libre reutilización.
 
-**Licencia privativa. Todos los derechos reservados en la medida en que resulten aplicables.**
+- **Permitido:** mostrar las imágenes oficiales sin modificar en apps, webs y servicios creados con Total.js, y en contenidos que ilustren Total.js, siempre con el aviso «Creado con Total.js» y un enlace a totaljs.es o totaljs.com.
+- **Requiere autorización escrita:** usar a Toto como mascota o marca de algo ajeno a Total.js, crear derivados o nuevas poses, vender productos con él o redistribuir la colección como un paquete de recursos.
 
-La colección está destinada al uso de Spanish Total.js y sus aplicaciones. Se permite a terceros mostrar los recursos oficiales únicamente para mencionar de forma veraz a Total.js, a Spanish Total.js o a sus apps, con atribución y enlace. La licencia detalla este permiso limitado y sus condiciones.
+[Consultar la licencia completa →](LICENSE.es.md) · [English version](LICENSE.md)
 
-No se permite adoptar a Toto como mascota propia, crear derivados, vender productos con él ni redistribuir la colección como un paquete de recursos sin autorización escrita. El acceso al repositorio no equivale a una licencia abierta. En un repositorio público, GitHub permite visualizar y hacer forks según sus propias condiciones; eso no concede permiso para explotar la identidad de Toto.
-
-[Consultar la licencia completa →](LICENSE.md)
+El acceso público al repositorio no equivale a una licencia abierta. Las condiciones de GitHub, incluidos los derechos de visualización y de fork, siguen siendo aplicables.
 
 ## Asistentes de IA
 
@@ -109,10 +112,8 @@ El [kit de IA del repositorio](docs/ai.md) reúne instrucciones comunes, skills 
 
 ## Créditos
 
-**Concepto, nombre, historia y dirección de identidad:** Spanish Total.js, 2026.<br>
-**Diseño:** Spanish Total.js.<br>
-**Referencias conservadas:** el retrato original de Toto y su primera hoja de expresiones.
+**Concepto, nombre, historia y dirección de identidad:** Spanish Total.js, 2026. Diseñado en Spanish Total.js.
 
 ---
 
-<div align="center">Hecho con curiosidad, código y un pequeño zorro naranja. 🦊<br>© 2026 Spanish Total.js · Uso sujeto a <a href="LICENSE.md">licencia privativa</a>.</div>
+<div align="center">Hecho con curiosidad, código y un pequeño zorro naranja. 🦊<br>© 2026 Spanish Total.js · Uso sujeto a la <a href="LICENSE.es.md">licencia</a>.</div>

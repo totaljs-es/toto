@@ -1,64 +1,61 @@
-# Licencia privativa de Toto — Spanish Total.js
+# Toto License — Spanish Total.js
 
-**Versión 1.0 · 26 de octubre de 2026**<br>
-**© 2026 Spanish Total.js y los titulares de los derechos correspondientes. Todos los derechos reservados en la medida en que sean aplicables.**
+**Version 2.0 · 27 October 2026**<br>
+**© 2026 Spanish Total.js. All rights reserved except as expressly granted below.**
 
-Estas condiciones se aplican a la identidad de Toto y a los materiales de este repositorio: ilustraciones, poses, referencias, textos de presentación y archivos de la galería. Esta es una licencia de uso limitada, no una licencia de software libre, código abierto ni recursos de dominio público.
+These terms apply to Toto and to everything in this repository: artwork, poses, icons, texts and gallery files. This is a limited-use license. It is not open-source software, nor public-domain material.
 
-## 1. Identidad
+## 1. Identity
 
-Toto es la mascota oficial de **Spanish Total.js**. Su publicación no autoriza a terceros a adoptarlo como mascota, presentarlo como propio o incorporarlo a otra identidad de marca. **Toto™** es una marca de Spanish Total.js · OEPM **M4411785**.
+**Toto™** is the official mascot of **Spanish Total.js** and a mark of Spanish Total.js (OEPM **M4411785**). Making the files public does not authorize anyone to adopt him as their own mascot, present him as their own or build him into another brand identity.
 
-## 2. Uso propio de Spanish Total.js
+## 2. Use by Spanish Total.js
 
-Spanish Total.js y las personas a quienes autorice pueden utilizar, adaptar y mantener a Toto en sus propias aplicaciones, servicios, documentación, presentaciones, comunicaciones y demás piezas de identidad, conforme a las autorizaciones internas que correspondan.
+Spanish Total.js, and the people it authorizes, may use, adapt and maintain Toto in its own applications, services, documentation, presentations and communications.
 
-La colección se mantiene como recurso propio. No se concede un permiso general de reutilización a personas ajenas a Spanish Total.js.
+## 3. Permission for the Total.js community
 
-## 3. Permiso limitado para mencionar a Spanish Total.js
+Spanish Total.js grants a free, non-exclusive, non-transferable and non-sublicensable permission to display the official images of Toto, under the conditions of section 4, to:
 
-Se permite a terceros reproducir una imagen oficial de Toto exclusivamente para mencionar de forma veraz a **Total.js, a Spanish Total.js o a una de sus aplicaciones**: por ejemplo, en una noticia, reseña, enlace, directorio o captura de pantalla de la aplicación.
+- **Developers and members of the Total.js community**, in applications, websites, services, documentation and products built with Total.js.
+- **Content creators** (authors, educators, speakers, streamers, publishers) who want to illustrate Total.js: articles, tutorials, videos, courses, talks, newsletters and reviews.
 
-Este permiso es no exclusivo, intransferible y no sublicenciable. El uso debe:
+Commercial projects are welcome as long as they are built with Total.js and meet the conditions below.
 
-- Estar directamente vinculado a esa mención, no servir de decoración genérica ni de identidad de otro producto.
-- Incluir cerca de la imagen una atribución legible: **«Toto, mascota de Spanish Total.js»**, con enlace a `https://totaljs.es/` o a la aplicación mencionada.
-- Utilizar un recurso oficial sin alterar el personaje. Se permite ajustar proporcionalmente el tamaño y convertir el formato conservando el aspecto. Los recortes propios de una captura de pantalla deben respetar el contexto de la aplicación.
-- Evitar cualquier apariencia de autoría propia, patrocinio, asociación o aprobación que no exista.
-- Mantener los avisos de derechos cuando formen parte del recurso o de su contexto original.
+## 4. Conditions
 
-La mera inclusión de una atribución no autoriza otros usos.
+1. **Built with Total.js.** Every application, website, service or other product that shows Toto must state clearly that it was created with Total.js, for example “Built with Total.js”, with a visible link to **https://www.totaljs.com** or **https://www.totaljs.es**. The notice must be easy for users to find: next to Toto, or in the footer, the about page or the credits screen. A mention only in source code or in legal terms is not enough.
+2. **Content about Total.js.** Articles, videos and other content must actually be about Total.js and include the same mention and link.
+3. **Official, unmodified images.** Resizing proportionally and converting the format while keeping the appearance are permitted. Linking the images directly from the published Toto site is permitted.
+4. **No false endorsement.** Do not suggest that Spanish Total.js or Total.js sponsors, certifies or endorses your project beyond the fact that it is built with Total.js.
+5. **Respectful and lawful context.** Do not use Toto in misleading, defamatory, hateful or unlawful contexts.
+6. **Notices.** Keep copyright and trademark notices when they are part of the asset or of its original context.
 
-## 4. Usos no concedidos
+Attribution alone does not authorize any other use.
 
-Sin autorización previa y escrita de Spanish Total.js no se permite:
+## 5. Not permitted without written permission
 
-- Usar a Toto como mascota, logotipo, avatar de marca o personaje de un proyecto, empresa o aplicación de terceros.
-- Crear ni publicar derivados: nuevas poses, rediseños, animaciones, variantes del personaje o identidades basadas en él.
-- Vender o explotar comercialmente la imagen como producto, mercancía, colección gráfica, NFT, recurso de stock o material promocional de terceros.
-- Redistribuir, republicar o sublicenciar la colección o sus archivos como un paquete de recursos, biblioteca o repositorio alternativo.
-- Suprimir atribuciones o avisos de derechos para presentar los materiales como propios.
+Without prior written authorization from Spanish Total.js, you may not:
 
-## 5. Publicación, plataformas y derechos legales
+- Use Toto outside the Total.js context: as the mascot, logo or brand avatar of an unrelated project, company, product or service.
+- Use “Toto” or his image as a name, trademark, logo, domain or app-store identity, or try to register them.
+- Create or publish derivatives: new poses, redesigns, animations, variants of the character or identities based on him.
+- Sell or commercially exploit the images as a product, merchandise, graphic collection, NFT, stock resource or promotional material.
+- Redistribute, republish or sublicense the collection or its files as an asset pack, library or alternative repository.
+- Remove credits or notices to present the material as your own.
 
-El acceso público a un archivo no lo convierte en un recurso de libre uso. Esta licencia no limita los usos que la legislación aplicable permita obligatoriamente ni los derechos de visualización o fork que resulten de las condiciones de una plataforma como GitHub. Esos derechos de plataforma no equivalen a un permiso para explotar a Toto como identidad propia ni para realizar los usos excluidos en el apartado 4.
+## 6. Withdrawal
 
-Los derechos sobre cada material dependen de su naturaleza, autoría y legislación aplicable. El permiso limitado de este documento no concede derechos sobre elementos de terceros.
+Spanish Total.js may withdraw this permission from anyone who does not comply with these terms. In that case, add the required notice or stop using Toto as soon as you are asked to.
 
-## 6. Otras autorizaciones
+## 7. Platforms and legal rights
 
-Para cualquier uso distinto del apartado 3, solicita una autorización escrita a Spanish Total.js a través de sus canales oficiales en `https://totaljs.es/`. La ausencia de respuesta no constituye autorización.
+Public access to a file does not make it free to use. These terms do not limit uses that applicable law mandatorily allows, nor the viewing and forking rights that follow from the terms of a platform such as GitHub. Those platform rights are not a permission to exploit Toto as your own identity or to do what section 5 excludes.
 
-## 7. Garantías y alcance
+## 8. Other permissions
 
-Los materiales se proporcionan tal cual. No se garantiza su idoneidad para un uso concreto. Esta licencia concede únicamente los permisos expresamente descritos, dentro de los derechos que sus titulares puedan otorgar. En caso de divergencia con una traducción informativa, prevalece este texto en español.
+For any use not covered by section 3, request written authorization from Spanish Total.js through its official channels at **https://www.totaljs.es**. A lack of reply is not authorization.
 
----
+## 9. Warranty and language
 
-## English summary — informative
-
-Toto is the official mascot of **Spanish Total.js** and a mark of Spanish Total.js (**Toto™**, OEPM **M4411785**). This repository is proprietary; it is not an open-source or freely reusable asset collection.
-
-Third parties may display an unmodified official image only when truthfully mentioning Total.js, Spanish Total.js or one of its applications. Credit **“Toto, mascot of Spanish Total.js”** and link to `https://totaljs.es/` or the application discussed. Proportional resizing and visually faithful format conversion are permitted for that limited purpose.
-
-Using Toto as another project's mascot or branding, making derivatives, merchandise, or redistributing the asset collection requires prior written permission. Attribution alone does not permit those uses. Mandatory legal exceptions and platform rights, including GitHub's viewing and forking terms, remain unaffected. The Spanish text above is authoritative.
+The materials are provided as they are, without warranty of fitness for a particular purpose. This license grants only the permissions expressly described, within the rights its holders are able to grant. The English text prevails over the [Spanish translation](LICENSE.es.md), which is provided for information.

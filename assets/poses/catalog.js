@@ -24,7 +24,7 @@ window.TOTO_POSES = {
       "es": "Toto™ · Marca de Spanish Total.js · OEPM M4411785",
       "en": "Toto™ · Mark of Spanish Total.js · OEPM M4411785"
     },
-    "detailsFile": "docs/marca.md"
+    "detailsFile": "docs/trademark.md"
   },
   "poses": [
     {
