@@ -2,7 +2,7 @@
 
 <img src="assets/poses/webp/toto-signature.webp" width="280" alt="Toto, el pequeño zorro naranja de Spanish Total.js, sonriendo y guiñando un ojo.">
 
-# Hola, soy Toto. 🦊
+# Hola, soy Toto. <img src="assets/brand/favicon.png" width="32" height="32" alt="">
 
 ### Un pequeño zorro con un gran corazón JavaScript.
 

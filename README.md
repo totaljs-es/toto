@@ -1,7 +1,7 @@
 <div align="center">
 <img src="assets/poses/webp/toto-signature.webp" width="260" alt="Toto, the smiling orange fox of Spanish Total.js.">
 
-# Meet Toto. 🦊
+# Meet Toto. <img src="assets/brand/favicon.png" width="32" height="32" alt="">
 ### A little fox with a big JavaScript heart.
 **The official mascot of Spanish Total.js.**
 
