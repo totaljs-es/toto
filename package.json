@@ -6,6 +6,9 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "scripts": {
     "catalog": "node tools/catalog.cjs",
-    "check": "node tools/check.cjs"
+    "check": "node tools/check.cjs && node --test tests/ai.test.cjs",
+    "generate": "node tools/catalog.cjs && node tools/llms.cjs --write",
+    "check:ai": "node --test tests/ai.test.cjs",
+    "test": "npm run check"
   }
 }

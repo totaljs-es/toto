@@ -85,6 +85,10 @@ Third parties may display an official, unmodified image only to truthfully menti
 
 Public access does not grant an open license. GitHub's platform terms, including viewing and forking rights for public repositories, remain applicable.
 
+## AI assistants
+
+The [repository AI kit](docs/ai.md) includes shared agent instructions, local skills and generated documentation. Start with [AGENTS.md](AGENTS.md), or use [llms.txt](llms.txt) and [llms-full.txt](llms-full.txt) to provide the project context.
+
 ## Credits
 
 Concept, name, story and identity direction: **Spanish Total.js, 2026**. Designed at Spanish Total.js. The original portrait and character sheet are retained as references.

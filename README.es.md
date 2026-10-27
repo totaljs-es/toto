@@ -103,6 +103,10 @@ No se permite adoptar a Toto como mascota propia, crear derivados, vender produc
 
 [Consultar la licencia completa →](LICENSE.md)
 
+## Asistentes de IA
+
+El [kit de IA del repositorio](docs/ai.md) reúne instrucciones comunes, skills locales y documentación generada. Empieza por [AGENTS.md](AGENTS.md), o utiliza [llms.txt](llms.txt) y [llms-full.txt](llms-full.txt) para aportar el contexto del proyecto.
+
 ## Créditos
 
 **Concepto, nombre, historia y dirección de identidad:** Spanish Total.js, 2026.<br>

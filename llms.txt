@@ -1,0 +1,25 @@
+# Toto
+
+> Toto is the official European red fox mascot of Spanish Total.js: identity, transparent artwork, reusable face icons and a bilingual static presentation.
+
+Proprietary license with limited display permission; public access does not grant an open asset license. README.md is English and README.es.md is Spanish. Node.js 18+ runs the local checks without dependencies. Artwork and trademark metadata describe this repository, not external verification.
+
+## Start here
+
+- [Meet Toto](https://raw.githubusercontent.com/totaljs-es/toto/main/README.md): English introduction and collection previews
+- [Hola, soy Toto](https://raw.githubusercontent.com/totaljs-es/toto/main/README.es.md): Spanish introduction and collection previews
+- [Agent guidance](https://raw.githubusercontent.com/totaljs-es/toto/main/AGENTS.md): Repository map, visual invariants, source files and commands
+- [AI kit](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/ai.md): Assistant entry points, shared workflows and verification scope
+## Identity and use
+
+- [His story](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/historia.md): Origins and character narrative
+- [Identity guide](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/identidad.md): Species, visual features, palette and tone
+- [Pose integration](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/poses.md): Stable IDs, assets, HTML and Total.js examples
+- [Face icons](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/favicon.md): Reusable favicon kit, integration and generation provenance
+- [Error pose](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/pose-error.md): Reference artwork and generation prompt
+- [Trademark details](https://raw.githubusercontent.com/totaljs-es/toto/main/docs/marca.md): Locally recorded mark information and registry reference
+- [License](https://raw.githubusercontent.com/totaljs-es/toto/main/LICENSE.md): Proprietary terms and limited display permission
+## Asset data
+
+- [Pose manifest](https://raw.githubusercontent.com/totaljs-es/toto/main/assets/poses/manifest.json): Dimensions, paths, bilingual names, alt text and use
+- [Trademark metadata](https://raw.githubusercontent.com/totaljs-es/toto/main/assets/brand/trademark.json): Recorded office, identifier and local status
