@@ -272,6 +272,7 @@ Toto is the official mascot of **Spanish Total.js**, a European red fox (*Vulpes
 | Area | Source and responsibility |
 | --- | --- |
 | Presentation | `index.html` (English, default), `es/index.html` (Spanish), `404.html` |
+| Documentation pages | The Markdown in `docs/`, `docs/es/` and the two licenses is the source; `tools/pages.cjs` generates `story/`, `identity/`, `poses/`, `favicon/`, `trademark/`, `license/` and their `es/` equivalents plus `sitemap.xml`. Never edit the generated HTML; edit the Markdown and run `npm run generate` |
 | Discovery | `robots.txt`, `sitemap.xml`, `manifest.webmanifest`, JSON-LD and `hreflang` in both pages, plus `llms.txt` for agents |
 | Interaction and layout | `scripts/presentation.js`, `styles/presentation.css` |
 | Artwork | `assets/poses/toto-*.png`, web exports in `assets/poses/webp/`, brand assets in `assets/brand/` |
@@ -293,9 +294,10 @@ Toto is the official mascot of **Spanish Total.js**, a European red fox (*Vulpes
 ## Commands
 
 ```sh
-npm run generate          # regenerate the pose catalogs and both llms files
+npm run generate          # regenerate the pose catalogs, both llms files, the documentation pages and the sitemap
 npm run check             # artwork, links, catalogs and AI-kit integrity
 npm run check:ai          # AI-kit and generated documentation checks only
+npm run check:pages       # documentation pages: freshness, links, hreflang, sitemap
 npm test                  # same complete local checks as npm run check
 node tools/webp.cjs       # regenerate WebP exports; requires cwebp
 git diff --check

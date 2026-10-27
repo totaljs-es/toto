@@ -12,4 +12,76 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/"/>
   </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/story/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/story/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/historia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/story/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/es/historia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/story/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/historia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/story/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/identity/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/identity/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/identidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/identity/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/es/identidad/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/identity/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/identidad/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/identity/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/poses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/poses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/poses/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/poses/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/es/poses/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/poses/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/poses/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/poses/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/favicon/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/favicon/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/favicon/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/favicon/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/es/favicon/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/favicon/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/favicon/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/favicon/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/trademark/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/trademark/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/marca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/trademark/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/es/marca/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/trademark/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/marca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/trademark/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/license/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/license/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/licencia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/license/"/>
+  </url>
+  <url>
+    <loc>https://totaljs-es.github.io/toto/es/licencia/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://totaljs-es.github.io/toto/license/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://totaljs-es.github.io/toto/es/licencia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://totaljs-es.github.io/toto/license/"/>
+  </url>
 </urlset>
