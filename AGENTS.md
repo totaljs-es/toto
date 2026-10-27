@@ -14,6 +14,7 @@ Toto is the official mascot of **Spanish Total.js**, a European red fox (*Vulpes
 | Area | Source and responsibility |
 | --- | --- |
 | Presentation | `index.html` (English, default), `es/index.html` (Spanish), `404.html` |
+| Discovery | `robots.txt`, `sitemap.xml`, `manifest.webmanifest`, JSON-LD and `hreflang` in both pages, plus `llms.txt` for agents |
 | Interaction and layout | `scripts/presentation.js`, `styles/presentation.css` |
 | Artwork | `assets/poses/toto-*.png`, web exports in `assets/poses/webp/`, brand assets in `assets/brand/` |
 | Pose definitions | `tools/catalog.cjs` writes `assets/poses/manifest.json` and `assets/poses/catalog.js`; edit definitions, then regenerate |
@@ -22,7 +23,7 @@ Toto is the official mascot of **Spanish Total.js**, a European red fox (*Vulpes
 
 ## Working conventions
 
-- Use existing static HTML, CSS and plain JavaScript. No framework, build system or server is needed. Node.js 18+ runs all checks without installing packages; WebP generation separately needs `cwebp` on PATH.
+- Use existing static HTML, CSS and plain JavaScript. No framework, build system or server is needed. Node.js 18+ runs all checks without installing packages; WebP generation (800 px and 480 px per pose) separately needs `cwebp` on PATH.
 - Preserve the warm visual design, soft 3D illustration style, species and recognizable features. Additional poses should use the original portrait as reference. Keep the original artwork intact.
 - The face-only artwork is `assets/brand/toto-face.png`. Use its favicon exports for small icons; update the reusable ZIP and its guide when its contents change.
 - Keep Spanish and English pages equivalent. Relative paths in `es/index.html` start with `../` and it sets `data-root="../"`; English is the default and lives at the root. Documentation follows the same rule: English in `docs/`, Spanish in `docs/es/`, `README.md`/`LICENSE.md` in English and `README.es.md`/`LICENSE.es.md` in Spanish; pose paths in the manifest are relative to the repository root, and the browser script uses the page's `data-root` prefix.
