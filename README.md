@@ -45,18 +45,22 @@ Curious, approachable, inventive and cheerful, with a little mischief. Toto like
 
 His role in our apps is to add warmth. Text, status and controls still communicate clearly on their own. A celebration pose appears only after an operation succeeds.
 
-## The first collection
+## His first collection
 
-| Pose | Preview & files | Purpose |
+Each pose is a standalone image with a transparent background, in WebP (800 px, light, for the web) and original PNG. Stable IDs let you reuse them consistently in your apps.
+
+| Pose | Preview | When to use it |
 | --- | --- | --- |
-| Signature | <img src="assets/poses/webp/toto-signature.webp" width="130" alt="Toto smiling and winking."><br>[WebP](assets/poses/webp/toto-signature.webp) · [PNG](assets/poses/toto-signature.png) | Identity, introductions and sign-offs. |
-| Welcome | <img src="assets/poses/webp/toto-welcome.webp" width="130" alt="Toto waves with a raised paw."><br>[WebP](assets/poses/webp/toto-welcome.webp) · [PNG](assets/poses/toto-welcome.png) | Onboarding and first visits. |
-| Thinking | <img src="assets/poses/webp/toto-thinking.webp" width="130" alt="Toto tilts his head and touches his cheek thoughtfully."><br>[WebP](assets/poses/webp/toto-thinking.webp) · [PNG](assets/poses/toto-thinking.png) | Help, questions and useful tips. |
-| Coding | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto works on a dark laptop."><br>[WebP](assets/poses/webp/toto-coding.webp) · [PNG](assets/poses/toto-coding.png) | Tutorials and work in progress. |
-| Celebrate | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrates with raised paws and a smile."><br>[WebP](assets/poses/webp/toto-celebrate.webp) · [PNG](assets/poses/toto-celebrate.png) | Completed tasks and releases. |
-| Something went wrong | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto scratches his head with a gently puzzled expression."><br>[WebP](assets/poses/webp/toto-error.webp) · [PNG](assets/poses/toto-error.png) | Error pages and missing routes, with a clear explanation and a way forward. |
+| **Signature** · `signature` | <img src="assets/poses/webp/toto-signature.webp" width="130" alt="Toto smiling and winking."> | Presentations, identity and sign-offs. |
+| **Welcome** · `welcome` | <img src="assets/poses/webp/toto-welcome.webp" width="130" alt="Toto waves with a raised paw."> | First visits, introductions and onboarding. |
+| **Thinking** · `thinking` | <img src="assets/poses/webp/toto-thinking.webp" width="130" alt="Toto tilts his head and touches his cheek thoughtfully."> | Tips, help and questions. |
+| **Coding** · `coding` | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto works on a dark laptop."> | Tutorials and work in progress. |
+| **Celebrate** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrates with raised paws and a smile."> | A completed task or a new release. |
+| **Something went wrong** · `error` | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto scratches his head with a gently puzzled expression."> | Error pages and missing routes, with a clear explanation and a way forward. |
 
-Each pose is a standalone image with a transparent background, in WebP (800 px, light, for the web) and original PNG.
+All files, sizes and alt texts are in the [pose catalog](assets/poses/manifest.json) and the [pose guide](docs/poses.md).
+
+## A presentation to meet him
 
 Visit **[totaljs-es.github.io/toto/](https://totaljs-es.github.io/toto/)** for his visual presentation: his story, the European red fox field guide, a gallery on light and dark backgrounds and the terms of use. Also available [in Spanish](https://totaljs-es.github.io/toto/es/).
 
