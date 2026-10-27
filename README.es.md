@@ -18,6 +18,8 @@ Toto es un **zorro rojo europeo** (*Vulpes vulpes*) y pone cara a una forma de h
 
 Su casa es **Spanish Total.js**. Esta es su presentación, su guía de identidad y la colección de poses para las apps y los contenidos de la comunidad Total.js.
 
+> **Para la comunidad Total.js:** lleva a Toto a tus apps y a tus contenidos. Solo tienes que indicar que está creado con Total.js, con un enlace a totaljs.es o a totaljs.com. [Cómo hacerlo →](#usa-a-toto-en-tus-apps-totaljs)
+
 ## Una historia que empieza con una pregunta
 
 En octubre de 2026 nos hicimos una pregunta: **¿y si nuestra comunidad tuviera un compañero propio?**
@@ -54,6 +56,8 @@ Toto es un **zorro rojo europeo**, *Vulpes vulpes*: el mismo zorro que vive en l
 | Ingenioso | Disfruta encontrando una solución sencilla. |
 | Alegre | Celebra las pequeñas victorias del trabajo diario. |
 | Un poco travieso | Un guiño, una taza de café y otra idea por probar. |
+
+En las apps creadas con Total.js, su papel es aportar cercanía. Los textos, estados y controles siguen siendo claros por sí mismos, y la pose de celebración aparece solo cuando la operación se ha completado.
 
 ## Su primera colección
 

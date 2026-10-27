@@ -12,6 +12,8 @@
 
 Toto is a **European red fox** (*Vulpes vulpes*) and gives a face to the curiosity, care and pleasure of building things together with **Total.js**. He welcomes newcomers, keeps us company while we learn, and celebrates the small moments when a project starts to work.
 
+> **For the Total.js community:** bring Toto into your apps and your content. Just show that it was built with Total.js, with a link to totaljs.com or totaljs.es. [See how →](#use-toto-in-your-totaljs-apps)
+
 ## His story
 
 The idea took shape in the Spanish Total.js community in October 2026: what if our community had a companion of its own?
@@ -41,9 +43,15 @@ Toto is a **European red fox**, *Vulpes vulpes*: the same fox that lives in the 
 
 ## Personality
 
-Curious, approachable, inventive and cheerful, with a little mischief. Toto likes new ideas, a good coffee and the moment someone says: “It works!”
+| Trait | How you notice it |
+| --- | --- |
+| Curious | He peeks at whatever we are still learning. |
+| Approachable | He welcomes you and keeps you company without taking over. |
+| Inventive | He enjoys finding a simple solution. |
+| Cheerful | He celebrates the small wins of everyday work. |
+| A bit mischievous | A wink, a cup of coffee and one more idea to try. |
 
-His role in our apps is to add warmth. Text, status and controls still communicate clearly on their own. A celebration pose appears only after an operation succeeds.
+His role in apps built with Total.js is to add warmth. Text, status and controls still communicate clearly on their own. A celebration pose appears only after an operation succeeds.
 
 ## His first collection
 
