@@ -6,7 +6,7 @@ Esta colección pertenece a Spanish Total.js. Su integración en aplicaciones pr
 
 ## Catálogo
 
-El [manifiesto JSON](../assets/poses/manifest.json) contiene identificador, archivo, dimensiones, textos alternativos e intención de cada pose. Las rutas del manifiesto son relativas a la raíz del repositorio. Cada pose existe en **WebP** (800 px, ligero, para web y firmas) y en **PNG** original (1254 px) con canal alfa. Usa el WebP salvo que necesites la máxima resolución; algunos clientes de correo antiguos, como Outlook de escritorio, no muestran WebP: en ese caso usa el PNG.
+El [manifiesto JSON](../assets/poses/manifest.json) contiene identificador, archivo, dimensiones, textos alternativos e intención de cada pose. Las rutas del manifiesto son relativas a la raíz del repositorio. Cada pose existe en **WebP** (800 px, ligero, para web y firmas) y en **PNG** original (dimensiones en el manifiesto) con canal alfa. Usa el WebP salvo que necesites la máxima resolución; algunos clientes de correo antiguos, como Outlook de escritorio, no muestran WebP: en ese caso usa el PNG.
 
 | ID estable | Recurso | Uso recomendado |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ El [manifiesto JSON](../assets/poses/manifest.json) contiene identificador, arch
 | `thinking` | `assets/poses/webp/toto-thinking.webp` · `assets/poses/toto-thinking.png` | Consejos y preguntas sin resolver. |
 | `coding` | `assets/poses/webp/toto-coding.webp` · `assets/poses/toto-coding.png` | Tutoriales y operaciones en curso. |
 | `celebrate` | `assets/poses/webp/toto-celebrate.webp` · `assets/poses/toto-celebrate.png` | Confirmación de éxito y nuevas versiones. |
+| `error` | `assets/poses/webp/toto-error.webp` · `assets/poses/toto-error.png` | Páginas de error y rutas no encontradas, con una explicación y una acción de recuperación. |
 
 La [galería de la web](https://totaljs-es.github.io/toto/#poses) permite cambiar el fondo y comprobar cómo se ve cada pose.
 
@@ -64,7 +65,9 @@ Para una imagen decorativa que acompaña a un texto equivalente, usa `alt=""`. S
 
 ## Archivos de origen y generación
 
-`toto-signature.png` es una copia sin modificaciones del retrato aportado. La hoja 2D se conserva en `assets/reference/toto-character-sheet.png`. Las cuatro poses adicionales se han diseñado en Spanish Total.js a partir del retrato y se mantienen como archivos independientes. No son fotogramas de una animación ni exportaciones de un modelo 3D editable.
+`toto-signature.png` es una copia sin modificaciones del retrato aportado. La hoja 2D se conserva en `assets/reference/toto-character-sheet.png`. Las cinco poses adicionales se han diseñado en Spanish Total.js a partir del retrato y se mantienen como archivos independientes. No son fotogramas de una animación ni exportaciones de un modelo 3D editable.
+
+La pose `error` dispone de [referencias y prompt de generación](pose-error.md).
 
 No hay SVG en esta entrega: los recursos originales son imágenes rasterizadas. Para una futura colección vectorial hará falta crear y revisar ilustraciones vectoriales propias.
 

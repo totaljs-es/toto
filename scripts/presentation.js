@@ -1,5 +1,12 @@
 'use strict';
 (function() {
+ const header=document.querySelector('.header-shell');
+ if(header){
+  const syncHeaderHeight=()=>document.documentElement.style.setProperty('--header-height',header.getBoundingClientRect().height+'px');
+  syncHeaderHeight();
+  if(window.ResizeObserver)new ResizeObserver(syncHeaderHeight).observe(header);
+  else window.addEventListener('resize',syncHeaderHeight);
+ }
  const gallery=document.getElementById('poseGallery');
  const lang=document.documentElement.lang==='en'?'en':'es',root=document.documentElement.dataset.root||'';
  const text={es:{view:'Ver imagen oficial ↗',png:'PNG original ↗',tail:'Transparente'},en:{view:'View official image ↗',png:'Original PNG ↗',tail:'Transparent'}}[lang];

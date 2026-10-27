@@ -165,6 +165,34 @@
         "en": "Toto celebrates with raised paws and a smile."
       },
       "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "error",
+      "name": {
+        "es": "Algo ha fallado",
+        "en": "Something went wrong"
+      },
+      "file": "assets/poses/toto-error.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-error.webp",
+        "width": 800,
+        "height": 800,
+        "format": "image/webp"
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Páginas de error y rutas no encontradas, con una salida clara.",
+        "en": "Error pages and missing routes, with a clear way forward."
+      },
+      "alt": {
+        "es": "Toto se rasca la cabeza con una expresión de desconcierto amable.",
+        "en": "Toto scratches his head with a gently puzzled expression."
+      },
+      "origin": "spanish-totaljs-design"
     }
   ]
 }

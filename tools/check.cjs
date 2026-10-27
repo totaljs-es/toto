@@ -2,7 +2,7 @@
 const Fs=require('node:fs'),Path=require('node:path'),Assert=require('node:assert/strict'),Zlib=require('node:zlib'),VM=require('node:vm');
 const root=Path.resolve(__dirname,'..'),read=n=>Fs.readFileSync(Path.join(root,n));
 const manifest=JSON.parse(read('assets/poses/manifest.json'));
-Assert.equal(manifest.brand,'Spanish Total.js');Assert(manifest.poses.length>=5);Assert.equal(manifest.license,'LicenseRef-Spanish-Totaljs-Toto-Proprietary');
+Assert.equal(manifest.brand,'Spanish Total.js');Assert(manifest.poses.length>=6);Assert.equal(manifest.license,'LicenseRef-Spanish-Totaljs-Toto-Proprietary');
 const ids=new Set();
 function transparency(file){
  const b=read(file);Assert.equal(b.subarray(0,8).toString('hex'),'89504e470d0a1a0a');const w=b.readUInt32BE(16),h=b.readUInt32BE(20);
@@ -19,12 +19,12 @@ function transparency(file){
 }
 for(const pose of manifest.poses){Assert(!ids.has(pose.id));ids.add(pose.id);Assert(!pose.file.includes('..'));const {w,h}=transparency(pose.file);Assert.equal(pose.width,w);Assert.equal(pose.height,h);Assert(pose.alt.es&&pose.alt.en);const web=read(pose.web.file);Assert.equal(web.toString('ascii',0,4),'RIFF');Assert.equal(web.toString('ascii',8,16),'WEBPVP8X');Assert(web[20]&0x10,'WebP needs alpha');Assert.equal(1+web.readUIntLE(24,3),pose.web.width);Assert(web.length<200000,'WebP too heavy');console.log('PNG OK',pose.id,w+'×'+h,'real transparency');}
 const sandbox={window:{}};VM.runInNewContext(read('assets/poses/catalog.js').toString(),sandbox);Assert.equal(JSON.stringify(sandbox.window.TOTO_POSES),JSON.stringify(manifest));
-for(const page of ['index.html','en/index.html']){
+for(const page of ['index.html','en/index.html','404.html']){
  const html=read(page).toString().replace(/<pre[\s\S]*?<\/pre>/g,'');
  for(const m of html.matchAll(/(?:src|href)="([^"#][^"]*)"/g)){const target=m[1].split('#')[0];if(/^[a-z]+:/i.test(target)||!target)continue;Assert(Fs.existsSync(Path.resolve(root,Path.dirname(page),target)),'Broken HTML asset in '+page+': '+target);}
 }
 Assert(Fs.existsSync(Path.join(root,'.nojekyll')),'Missing .nojekyll for GitHub Pages');
-for(const name of ['README.md','README.en.md','docs/historia.md','docs/identidad.md','docs/poses.md']){
+for(const name of ['README.md','README.es.md','docs/historia.md','docs/identidad.md','docs/poses.md']){
  const source=read(name).toString();for(const m of source.matchAll(/\]\(([^)#]+)(?:#[^)]*)?\)/g)){if(/^[a-z]+:/i.test(m[1]))continue;Assert(Fs.existsSync(Path.resolve(root,Path.dirname(name),m[1])),'Broken documentation link in '+name+': '+m[1]);}
 }
 Assert(read('LICENSE.md').toString().includes('licencia de uso limitada'));

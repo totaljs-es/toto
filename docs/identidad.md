@@ -40,7 +40,7 @@ Estos colores orientan las interfaces y las piezas de comunicación. La ilustrac
 
 - Mantén la relación de aspecto original y `object-fit: contain`.
 - Deja aire alrededor de orejas, patas y cola. Como orientación, un 10 % de margen exterior.
-- Para avatares pequeños, usa el retrato de firma dentro de un contenedor sin deformarlo. Un recorte específico del rostro necesitará un recurso aprobado propio.
+- Para favicons y avatares pequeños, usa la [carita oficial de Toto](favicon.md), con sus orejas completas y sin deformarla. El kit incluye variantes de 16 a 512 px.
 - Comprueba los fondos claro y oscuro antes de integrar una pose.
 - Conserva la transparencia y los bordes suaves del PNG original.
 

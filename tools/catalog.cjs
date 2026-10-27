@@ -6,7 +6,8 @@ const definitions=[
  ['welcome','Bienvenida','Welcome','Primer acceso, introducciones y bienvenida.','Onboarding, introductions and first visits.','Toto saluda con una pata levantada.','Toto waves with a raised paw.'],
  ['thinking','Pensando','Thinking','Ayuda, consejos y preguntas.','Help, useful tips and questions.','Toto ladea la cabeza y se toca la mejilla mientras piensa.','Toto tilts his head and touches his cheek thoughtfully.'],
  ['coding','Programando','Coding','Tutoriales y tareas en curso.','Tutorials and work in progress.','Toto trabaja con un portátil oscuro.','Toto works on a dark laptop.'],
- ['celebrate','Celebrando','Celebrate','Una tarea completada o una nueva versión.','A completed task or a new release.','Toto celebra con las patas levantadas y una sonrisa.','Toto celebrates with raised paws and a smile.']
+ ['celebrate','Celebrando','Celebrate','Una tarea completada o una nueva versión.','A completed task or a new release.','Toto celebra con las patas levantadas y una sonrisa.','Toto celebrates with raised paws and a smile.'],
+ ['error','Algo ha fallado','Something went wrong','Páginas de error y rutas no encontradas, con una salida clara.','Error pages and missing routes, with a clear way forward.','Toto se rasca la cabeza con una expresión de desconcierto amable.','Toto scratches his head with a gently puzzled expression.']
 ];
 const poses=definitions.map(([id,es,en,useEs,useEn,altEs,altEn])=>{
  const file=`assets/poses/toto-${id}.png`,data=Fs.readFileSync(Path.join(root,file)),webpFile=`assets/poses/webp/toto-${id}.webp`,webp=Fs.readFileSync(Path.join(root,webpFile));
