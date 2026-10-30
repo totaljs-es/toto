@@ -65,6 +65,10 @@ Each pose is a standalone image with a transparent background, in WebP (800 px, 
 | **Coding** · `coding` | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto works on a dark laptop."> | Tutorials and work in progress. |
 | **Celebrate** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrates with raised paws and a smile."> | A completed task or a new release. |
 | **Something went wrong** · `error` | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto scratches his head with a gently puzzled expression."> | Error pages and missing routes, with a clear explanation and a way forward. |
+| **Production** · `production` | <img src="assets/poses/webp/toto-production.webp" width="130" alt="Toto rests a paw on a small server with a terminal."> | Servers, deployments and production operations. |
+| **Email** · `email` | <img src="assets/poses/webp/toto-email.webp" width="130" alt="Toto holds an envelope between his paws."> | Email, messages and communication. |
+| **Total.js** · `totaljs` | <img src="assets/poses/webp/toto-totaljs.webp" width="130" alt="Toto nuzzles the Total.js symbol with his eyes closed and an affectionate smile."> | Presenting Total.js and its community. |
+| **Artificial intelligence** · `ia` | <img src="assets/poses/webp/toto-ia.webp" width="130" alt="Toto plays with a small AI robot and high-fives its hand."> | AI assistants, learning and collaboration. |
 
 All files, sizes and alt texts are in the [pose catalog](assets/poses/manifest.json) and the [pose guide](docs/poses.md).
 

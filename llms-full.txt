@@ -75,6 +75,10 @@ Each pose is a standalone image with a transparent background, in WebP (800 px, 
 | **Coding** · `coding` | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto works on a dark laptop."> | Tutorials and work in progress. |
 | **Celebrate** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrates with raised paws and a smile."> | A completed task or a new release. |
 | **Something went wrong** · `error` | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto scratches his head with a gently puzzled expression."> | Error pages and missing routes, with a clear explanation and a way forward. |
+| **Production** · `production` | <img src="assets/poses/webp/toto-production.webp" width="130" alt="Toto rests a paw on a small server with a terminal."> | Servers, deployments and production operations. |
+| **Email** · `email` | <img src="assets/poses/webp/toto-email.webp" width="130" alt="Toto holds an envelope between his paws."> | Email, messages and communication. |
+| **Total.js** · `totaljs` | <img src="assets/poses/webp/toto-totaljs.webp" width="130" alt="Toto nuzzles the Total.js symbol with his eyes closed and an affectionate smile."> | Presenting Total.js and its community. |
+| **Artificial intelligence** · `ia` | <img src="assets/poses/webp/toto-ia.webp" width="130" alt="Toto plays with a small AI robot and high-fives its hand."> | AI assistants, learning and collaboration. |
 
 All files, sizes and alt texts are in the [pose catalog](assets/poses/manifest.json) and the [pose guide](docs/poses.md).
 
@@ -201,6 +205,10 @@ Cada pose es una imagen independiente con fondo transparente, en WebP (800 px, l
 | **Programando** · `coding` | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto trabajando con su portátil."> | Tutoriales y tareas en curso. |
 | **Celebrando** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrando con las patas levantadas."> | Una tarea completada o una nueva versión. |
 | **Algo ha fallado** · `error` | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto se rasca la cabeza con una expresión de desconcierto amable."> | Páginas de error y rutas no encontradas, con una explicación y una salida clara. |
+| **Producción** · `production` | <img src="assets/poses/webp/toto-production.webp" width="130" alt="Toto apoya una pata en un pequeño servidor con una terminal."> | Servidores, despliegues y operaciones en producción. |
+| **Correo** · `email` | <img src="assets/poses/webp/toto-email.webp" width="130" alt="Toto sostiene un sobre entre sus patas."> | Correo, mensajes y comunicación. |
+| **Total.js** · `totaljs` | <img src="assets/poses/webp/toto-totaljs.webp" width="130" alt="Toto acaricia con la mejilla el símbolo de Total.js, con los ojos cerrados y una sonrisa de cariño."> | Presentaciones de Total.js y su comunidad. |
+| **Inteligencia artificial** · `ia` | <img src="assets/poses/webp/toto-ia.webp" width="130" alt="Toto juega con un pequeño robot de IA y choca su pata con la mano del robot."> | Asistentes de IA, aprendizaje y colaboración. |
 
 ## Una presentación para conocerlo
 
@@ -506,6 +514,10 @@ The [JSON manifest](../assets/poses/manifest.json) contains the identifier, file
 | `coding` | `assets/poses/webp/toto-coding.webp` · `assets/poses/toto-coding.png` | Tutorials and operations in progress. |
 | `celebrate` | `assets/poses/webp/toto-celebrate.webp` · `assets/poses/toto-celebrate.png` | Success confirmation and new releases. |
 | `error` | `assets/poses/webp/toto-error.webp` · `assets/poses/toto-error.png` | Error pages and missing routes, with an explanation and a recovery action. |
+| `production` | `assets/poses/webp/toto-production.webp` · `assets/poses/toto-production.png` | Servers, deployments and production operations. |
+| `email` | `assets/poses/webp/toto-email.webp` · `assets/poses/toto-email.png` | Email, messages and communication. |
+| `totaljs` | `assets/poses/webp/toto-totaljs.webp` · `assets/poses/toto-totaljs.png` | Presenting Total.js and its community. |
+| `ia` | `assets/poses/webp/toto-ia.webp` · `assets/poses/toto-ia.png` | AI assistants, learning and collaboration. |
 
 The [gallery on the website](https://totaljs-es.github.io/toto/#poses) lets you switch the background and see how each pose looks.
 
@@ -907,6 +919,10 @@ El [manifiesto JSON](../../assets/poses/manifest.json) contiene identificador, a
 | `coding` | `assets/poses/webp/toto-coding.webp` · `assets/poses/toto-coding.png` | Tutoriales y operaciones en curso. |
 | `celebrate` | `assets/poses/webp/toto-celebrate.webp` · `assets/poses/toto-celebrate.png` | Confirmación de éxito y nuevas versiones. |
 | `error` | `assets/poses/webp/toto-error.webp` · `assets/poses/toto-error.png` | Páginas de error y rutas no encontradas, con una explicación y una acción de recuperación. |
+| `production` | `assets/poses/webp/toto-production.webp` · `assets/poses/toto-production.png` | Servidores, despliegues y operaciones en producción. |
+| `email` | `assets/poses/webp/toto-email.webp` · `assets/poses/toto-email.png` | Correo, mensajes y comunicación. |
+| `totaljs` | `assets/poses/webp/toto-totaljs.webp` · `assets/poses/toto-totaljs.png` | Presentaciones de Total.js y su comunidad. |
+| `ia` | `assets/poses/webp/toto-ia.webp` · `assets/poses/toto-ia.png` | Asistentes de IA, aprendizaje y colaboración. |
 
 La [galería de la web](https://totaljs-es.github.io/toto/es/#poses) permite cambiar el fondo y comprobar cómo se ve cada pose.
 
@@ -1250,6 +1266,138 @@ Toto solo puede usarse dentro de la comunidad Total.js, según la [licencia](../
       "alt": {
         "es": "Toto se rasca la cabeza con una expresión de desconcierto amable.",
         "en": "Toto scratches his head with a gently puzzled expression."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "production",
+      "name": {
+        "es": "Producción",
+        "en": "Production"
+      },
+      "file": "assets/poses/toto-production.png",
+      "width": 1295,
+      "height": 1215,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-production.webp",
+        "width": 800,
+        "height": 751,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-production-480.webp",
+          "width": 480,
+          "height": 451
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Servidores, despliegues y operaciones en producción.",
+        "en": "Servers, deployments and production operations."
+      },
+      "alt": {
+        "es": "Toto apoya una pata en un pequeño servidor con una terminal.",
+        "en": "Toto rests a paw on a small server with a terminal."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "email",
+      "name": {
+        "es": "Correo",
+        "en": "Email"
+      },
+      "file": "assets/poses/toto-email.png",
+      "width": 1295,
+      "height": 1215,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-email.webp",
+        "width": 800,
+        "height": 751,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-email-480.webp",
+          "width": 480,
+          "height": 451
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Correo, mensajes y comunicación.",
+        "en": "Email, messages and communication."
+      },
+      "alt": {
+        "es": "Toto sostiene un sobre entre sus patas.",
+        "en": "Toto holds an envelope between his paws."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "totaljs",
+      "name": {
+        "es": "Total.js",
+        "en": "Total.js"
+      },
+      "file": "assets/poses/toto-totaljs.png",
+      "width": 1448,
+      "height": 1086,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-totaljs.webp",
+        "width": 800,
+        "height": 600,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-totaljs-480.webp",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Presentaciones de Total.js y su comunidad.",
+        "en": "Presenting Total.js and its community."
+      },
+      "alt": {
+        "es": "Toto acaricia con la mejilla el símbolo de Total.js, con los ojos cerrados y una sonrisa de cariño.",
+        "en": "Toto nuzzles the Total.js symbol with his eyes closed and an affectionate smile."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "ia",
+      "name": {
+        "es": "Inteligencia artificial",
+        "en": "Artificial intelligence"
+      },
+      "file": "assets/poses/toto-ia.png",
+      "width": 1295,
+      "height": 1215,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-ia.webp",
+        "width": 800,
+        "height": 751,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-ia-480.webp",
+          "width": 480,
+          "height": 451
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Asistentes de IA, aprendizaje y colaboración.",
+        "en": "AI assistants, learning and collaboration."
+      },
+      "alt": {
+        "es": "Toto juega con un pequeño robot de IA y choca su pata con la mano del robot.",
+        "en": "Toto plays with a small AI robot and high-fives its hand."
       },
       "origin": "spanish-totaljs-design"
     }

@@ -71,6 +71,10 @@ Cada pose es una imagen independiente con fondo transparente, en WebP (800 px, l
 | **Programando** · `coding` | <img src="assets/poses/webp/toto-coding.webp" width="130" alt="Toto trabajando con su portátil."> | Tutoriales y tareas en curso. |
 | **Celebrando** · `celebrate` | <img src="assets/poses/webp/toto-celebrate.webp" width="130" alt="Toto celebrando con las patas levantadas."> | Una tarea completada o una nueva versión. |
 | **Algo ha fallado** · `error` | <img src="assets/poses/webp/toto-error.webp" width="130" alt="Toto se rasca la cabeza con una expresión de desconcierto amable."> | Páginas de error y rutas no encontradas, con una explicación y una salida clara. |
+| **Producción** · `production` | <img src="assets/poses/webp/toto-production.webp" width="130" alt="Toto apoya una pata en un pequeño servidor con una terminal."> | Servidores, despliegues y operaciones en producción. |
+| **Correo** · `email` | <img src="assets/poses/webp/toto-email.webp" width="130" alt="Toto sostiene un sobre entre sus patas."> | Correo, mensajes y comunicación. |
+| **Total.js** · `totaljs` | <img src="assets/poses/webp/toto-totaljs.webp" width="130" alt="Toto acaricia con la mejilla el símbolo de Total.js, con los ojos cerrados y una sonrisa de cariño."> | Presentaciones de Total.js y su comunidad. |
+| **Inteligencia artificial** · `ia` | <img src="assets/poses/webp/toto-ia.webp" width="130" alt="Toto juega con un pequeño robot de IA y choca su pata con la mano del robot."> | Asistentes de IA, aprendizaje y colaboración. |
 
 ## Una presentación para conocerlo
 

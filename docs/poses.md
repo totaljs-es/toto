@@ -16,6 +16,10 @@ The [JSON manifest](../assets/poses/manifest.json) contains the identifier, file
 | `coding` | `assets/poses/webp/toto-coding.webp` · `assets/poses/toto-coding.png` | Tutorials and operations in progress. |
 | `celebrate` | `assets/poses/webp/toto-celebrate.webp` · `assets/poses/toto-celebrate.png` | Success confirmation and new releases. |
 | `error` | `assets/poses/webp/toto-error.webp` · `assets/poses/toto-error.png` | Error pages and missing routes, with an explanation and a recovery action. |
+| `production` | `assets/poses/webp/toto-production.webp` · `assets/poses/toto-production.png` | Servers, deployments and production operations. |
+| `email` | `assets/poses/webp/toto-email.webp` · `assets/poses/toto-email.png` | Email, messages and communication. |
+| `totaljs` | `assets/poses/webp/toto-totaljs.webp` · `assets/poses/toto-totaljs.png` | Presenting Total.js and its community. |
+| `ia` | `assets/poses/webp/toto-ia.webp` · `assets/poses/toto-ia.png` | AI assistants, learning and collaboration. |
 
 The [gallery on the website](https://totaljs-es.github.io/toto/#poses) lets you switch the background and see how each pose looks.
 

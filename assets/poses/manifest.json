@@ -223,6 +223,138 @@
         "en": "Toto scratches his head with a gently puzzled expression."
       },
       "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "production",
+      "name": {
+        "es": "Producción",
+        "en": "Production"
+      },
+      "file": "assets/poses/toto-production.png",
+      "width": 1295,
+      "height": 1215,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-production.webp",
+        "width": 800,
+        "height": 751,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-production-480.webp",
+          "width": 480,
+          "height": 451
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Servidores, despliegues y operaciones en producción.",
+        "en": "Servers, deployments and production operations."
+      },
+      "alt": {
+        "es": "Toto apoya una pata en un pequeño servidor con una terminal.",
+        "en": "Toto rests a paw on a small server with a terminal."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "email",
+      "name": {
+        "es": "Correo",
+        "en": "Email"
+      },
+      "file": "assets/poses/toto-email.png",
+      "width": 1295,
+      "height": 1215,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-email.webp",
+        "width": 800,
+        "height": 751,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-email-480.webp",
+          "width": 480,
+          "height": 451
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Correo, mensajes y comunicación.",
+        "en": "Email, messages and communication."
+      },
+      "alt": {
+        "es": "Toto sostiene un sobre entre sus patas.",
+        "en": "Toto holds an envelope between his paws."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "totaljs",
+      "name": {
+        "es": "Total.js",
+        "en": "Total.js"
+      },
+      "file": "assets/poses/toto-totaljs.png",
+      "width": 1448,
+      "height": 1086,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-totaljs.webp",
+        "width": 800,
+        "height": 600,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-totaljs-480.webp",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Presentaciones de Total.js y su comunidad.",
+        "en": "Presenting Total.js and its community."
+      },
+      "alt": {
+        "es": "Toto acaricia con la mejilla el símbolo de Total.js, con los ojos cerrados y una sonrisa de cariño.",
+        "en": "Toto nuzzles the Total.js symbol with his eyes closed and an affectionate smile."
+      },
+      "origin": "spanish-totaljs-design"
+    },
+    {
+      "id": "ia",
+      "name": {
+        "es": "Inteligencia artificial",
+        "en": "Artificial intelligence"
+      },
+      "file": "assets/poses/toto-ia.png",
+      "width": 1295,
+      "height": 1215,
+      "format": "image/png",
+      "web": {
+        "file": "assets/poses/webp/toto-ia.webp",
+        "width": 800,
+        "height": 751,
+        "format": "image/webp",
+        "small": {
+          "file": "assets/poses/webp/toto-ia-480.webp",
+          "width": 480,
+          "height": 451
+        }
+      },
+      "alpha": true,
+      "style": "soft-3d-illustration",
+      "usage": {
+        "es": "Asistentes de IA, aprendizaje y colaboración.",
+        "en": "AI assistants, learning and collaboration."
+      },
+      "alt": {
+        "es": "Toto juega con un pequeño robot de IA y choca su pata con la mano del robot.",
+        "en": "Toto plays with a small AI robot and high-fives its hand."
+      },
+      "origin": "spanish-totaljs-design"
     }
   ]
 }
