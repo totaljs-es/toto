@@ -82,6 +82,8 @@ Each pose is a standalone image with a transparent background, in WebP (800 px, 
 
 All files, sizes and alt texts are in the [pose catalog](assets/poses/manifest.json) and the [pose guide](docs/poses.md).
 
+The ten poses also have [flat 2D sticker versions](assets/poses/flat/README.md), with their own files and guide.
+
 ## A presentation to meet him
 
 Visit **[totaljs-es.github.io/toto/](https://totaljs-es.github.io/toto/)** for his visual presentation: his story, the European red fox field guide, a gallery on light and dark backgrounds and the terms of use. Also available [in Spanish](https://totaljs-es.github.io/toto/es/).
@@ -209,6 +211,8 @@ Cada pose es una imagen independiente con fondo transparente, en WebP (800 px, l
 | **Correo** · `email` | <img src="assets/poses/webp/toto-email.webp" width="130" alt="Toto sostiene un sobre entre sus patas."> | Correo, mensajes y comunicación. |
 | **Total.js** · `totaljs` | <img src="assets/poses/webp/toto-totaljs.webp" width="130" alt="Toto acaricia con la mejilla el símbolo de Total.js, con los ojos cerrados y una sonrisa de cariño."> | Presentaciones de Total.js y su comunidad. |
 | **Inteligencia artificial** · `ia` | <img src="assets/poses/webp/toto-ia.webp" width="130" alt="Toto juega con un pequeño robot de IA y choca su pata con la mano del robot."> | Asistentes de IA, aprendizaje y colaboración. |
+
+Las diez poses también tienen [versiones flat en estilo pegatina 2D](assets/poses/flat/README.es.md), con sus propios archivos y guía.
 
 ## Una presentación para conocerlo
 

@@ -72,6 +72,8 @@ Each pose is a standalone image with a transparent background, in WebP (800 px, 
 
 All files, sizes and alt texts are in the [pose catalog](assets/poses/manifest.json) and the [pose guide](docs/poses.md).
 
+The ten poses also have [flat 2D sticker versions](assets/poses/flat/README.md), with their own files and guide.
+
 ## A presentation to meet him
 
 Visit **[totaljs-es.github.io/toto/](https://totaljs-es.github.io/toto/)** for his visual presentation: his story, the European red fox field guide, a gallery on light and dark backgrounds and the terms of use. Also available [in Spanish](https://totaljs-es.github.io/toto/es/).

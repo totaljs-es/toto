@@ -76,6 +76,8 @@ Cada pose es una imagen independiente con fondo transparente, en WebP (800 px, l
 | **Total.js** · `totaljs` | <img src="assets/poses/webp/toto-totaljs.webp" width="130" alt="Toto acaricia con la mejilla el símbolo de Total.js, con los ojos cerrados y una sonrisa de cariño."> | Presentaciones de Total.js y su comunidad. |
 | **Inteligencia artificial** · `ia` | <img src="assets/poses/webp/toto-ia.webp" width="130" alt="Toto juega con un pequeño robot de IA y choca su pata con la mano del robot."> | Asistentes de IA, aprendizaje y colaboración. |
 
+Las diez poses también tienen [versiones flat en estilo pegatina 2D](assets/poses/flat/README.es.md), con sus propios archivos y guía.
+
 ## Una presentación para conocerlo
 
 Visita **[totaljs-es.github.io/toto/es/](https://totaljs-es.github.io/toto/es/)**: su presentación visual, la historia, la ficha del zorro rojo europeo, una galería con fondos claro y oscuro y las condiciones de uso. También disponible [en inglés](https://totaljs-es.github.io/toto/).
